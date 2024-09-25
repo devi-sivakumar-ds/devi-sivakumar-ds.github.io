@@ -1,22 +1,64 @@
 {
-	"movies": [
+	"activities": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Visit the UC Berkeley Campus",
+			"Description": "Explore the beautiful campus, including the iconic Sather Tower.",
+			"Location": "Berkeley, CA",
+			"Duration": "2-3 hours"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Hiking in Tilden Regional Park",
+			"Description": "Enjoy scenic trails and stunning views of the Bay Area.",
+			"Location": "Tilden Regional Park, Berkeley, CA",
+			"Duration": "2-4 hours"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Berkeley Art Museum and Pacific Film Archive",
+			"Description": "Discover contemporary art and film screenings.",
+			"Location": "BAMPFA, Berkeley, CA",
+			"Duration": "1-2 hours"
+		},
+		{
+			"Title": "Explore the Berkeley Rose Garden",
+			"Description": "Relax in a beautifully landscaped garden with over 3,000 rose bushes.",
+			"Location": "Berkeley, CA",
+			"Duration": "1 hour"
+		},
+		{
+			"Title": "Tour the Lawrence Hall of Science",
+			"Description": "Engage with interactive science exhibits and stunning views.",
+			"Location": "Berkeley, CA",
+			"Duration": "2-3 hours"
+		},
+		{
+			"Title": "Visit the Botanical Garden",
+			"Description": "Experience diverse plant species from around the world.",
+			"Location": "Berkeley, CA",
+			"Duration": "1-2 hours"
+		},
+		{
+			"Title": "Enjoy the Gourmet Ghetto",
+			"Description": "Taste a variety of local cuisine and specialty shops.",
+			"Location": "North Berkeley, CA",
+			"Duration": "1-2 hours"
+		},
+		{
+			"Title": "Attend a show at the Greek Theatre",
+			"Description": "Catch a concert in this iconic outdoor amphitheater.",
+			"Location": "Berkeley, CA",
+			"Duration": "2-4 hours"
+		},
+		{
+			"Title": "Explore the California Memorial Stadium",
+			"Description": "Take a tour of this historic sports venue.",
+			"Location": "Berkeley, CA",
+			"Duration": "1-1.5 hours"
+		},
+		{
+			"Title": "Visit the University of California Botanical Garden",
+			"Description": "Wander through a collection of over 13,000 plant species.",
+			"Location": "Berkeley, CA",
+			"Duration": "1-2 hours"
 		}
 	]
 }
